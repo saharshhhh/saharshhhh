@@ -46,5 +46,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+ <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?username=saharshhhh&langs_count=10&layout=compact&theme=algolia&cache_seconds=3600" />
+
+  <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=saharshhhh&show_icons=true&count_private=true&theme=algolia&cache_seconds=3600" />
+
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saharshhhh&theme=algolia&hide_border=false" />
+</p>
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀
