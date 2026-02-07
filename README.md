@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Saharsh Pabbathi</h1>
 
-<h3 align="center">ML & Deep Learning Enthusiast | NLP & GenAI Practitioner | Applied AI Learner</h3>
+<h3 align="center">ML & Deep Learning Enthusiast | NLP, GenAI and Agentic AI Practitioner | Applied AI Learner</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/saharsh-pabbathi-384972280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-saharshpabbathi-blue?style=flat-square&logo=LinkedIn" /></a>
   <a href="https://leetcode.com/u/saharsh_pabbathi/"><img src="https://img.shields.io/badge/LeetCode-saharsh_pabbathi-orange?style=flat-square&logo=LeetCode" /></a>
