@@ -11,9 +11,9 @@
 ---
 
 ## 🚀 About Me
-- 🏫 Final Year IT Student at CVR College of Engineering, Hyderabad
+- 🏢 Generative AI Intern at GlobalLogic, Hyderabad
 - 👨‍💻 AI & Data Science Enthusiast
-- 💻 Currently practicing DSA to strengthen problem-solving skills
+- 💻 Currently Upskilling myself
 
 ---
 
