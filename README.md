@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🏢 Generative AI Intern at GlobalLogic, Hyderabad
-- 👨‍💻 AI & Data Science Enthusiast
+- 👨‍💻 AI Enthusiast
 - 💻 Currently Upskilling myself
 
 ---
